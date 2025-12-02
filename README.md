@@ -136,9 +136,10 @@ cocktail-rag/
 
 ## 📝 Notas Importantes
 
-- Los documentos son cortos (promedio: 15 palabras, máximo: 94 palabras), por lo que no se requiere chunking
+- Los documentos son cortos, por lo que no se requiere chunking
 - El modelo utiliza mean pooling para generar embeddings de documentos completos
 - La cuantización 4-bit permite ejecutar Mistral 7B en GPUs consumer
+- El notebook usado no tiene un preview, pues al usar un input de chat, GitHub no permite ver previews.
 
 ## 📄 Licencia
 
